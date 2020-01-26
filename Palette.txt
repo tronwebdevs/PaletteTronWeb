@@ -1,0 +1,4 @@
+#3864E8 Main
+#EC7050 Triad
+#71B519 Triad
+#E8B738 Complementar
