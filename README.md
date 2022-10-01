@@ -1,1 +1,1 @@
-<h1>Default palette for TronWeb sites and projects.</h1>
+<h4>Default palette for TronWeb sites and projects.</h4>
